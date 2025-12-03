@@ -3,12 +3,10 @@
 - type: github
   icon: "fab fa-github"
 
-- type: resume
-  icon: fas fa-file'
-
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
+  tip: "Send me an email"
 
 #- type: rss
 #  icon: "fas fa-rss"
@@ -26,6 +24,7 @@
 - type: stack-overflow
   icon: 'fas fa-file'
   url:  'https://zinkozapper.github.io/Vibrant/pages/resume.html'
+  tip: 'My resume'
 #
 # - type: bluesky
 #   icon: 'fa-brands fa-bluesky'
