@@ -36,10 +36,8 @@ social:
     # https://twitter.com/username # change to your Twitter homepage
     - https://github.com/zinkozapper # change to your GitHub homepage
     # Uncomment below to add more social links
-    - https://zinkozapper.github.io/Vibrant/pages/resume.html
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
-  file: https://zinkozapper.github.io/Vibrant/pages/resume.html
 
 # Site Verification Settings
 webmaster_verifications:
