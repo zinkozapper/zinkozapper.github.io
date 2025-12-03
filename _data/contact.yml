@@ -24,7 +24,7 @@
 #   url:  ''                  # Fill with your Linkedin homepage
 #
 - type: stack-overflow
-  icon: 'fab fa-file-alt'
+  icon: 'fab fa-linkedin'
   url:  'https://zinkozapper.github.io/Vibrant/pages/resume.html'
 #
 # - type: bluesky
