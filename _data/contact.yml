@@ -23,7 +23,7 @@
 #
 - type: stack-overflow
   icon: 'fas fa-file'
-  url:  'https://zinkozapper.github.io/Vibrant/pages/resume.html'
+  url:  'https://zinkozapper.github.io/Vibrant/'
   tip: 'My resume'
 #
 # - type: bluesky
