@@ -4,7 +4,7 @@ description: BYU CTF 2026
 author: Zinko
 date: 2026-04-11
 categories: [Forensics]
-media_subpath: '/assets/img/posts/CorruptedCores
+media_subpath: '/assets/img/posts/CorruptedCores'
 ---
 
 ## Corrupted Cores

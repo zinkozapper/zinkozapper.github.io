@@ -13,7 +13,7 @@ This challenge was hard due to my own incompetence using python...
 
 Starting by connecting to the server I do some poking around.
 
-![We have keys!](Intro.png)
+![We have keys!](intro.png)
 
 I fortunately know that one of the cool properties of the xor function is that you can inverse it.
 
