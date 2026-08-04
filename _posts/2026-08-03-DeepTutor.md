@@ -1,8 +1,9 @@
 ---
-title: Deep Tutor Experiences
+title: My Deep Tutor Anecdotal Experience
 description: How I use Deep Tutor as a college student Part I
 author: Zinko
 date: 2026-08-03
+categories: [AI]
 media_subpath: '/assets/img/posts/DeepTutor'
 ---
 
@@ -27,10 +28,6 @@ Am I riding the AI band wagon? Perhaps...
 
 I originally set up Deeptutor just on localhost on my laptop but I later moved it to my homelab to have better uptime. I'm very fortunate to have some hardware capable enough to run AI models locally. For reference, I'm running a locally hosted Gemma 4 31b as my model of choice for all my testing. Gemma 4 should be conceivable to run for those who don't have hardware to locally host ($.14-.25/M tokens or even free). I'm accessing my model just by using the ollama api.
 
-## Anecdotal experience
-
-//TODO: Mastery course/firewall study?
-
 ## Knowledge
 
 This is arguably the most important feature of DeepTutor. You can create Knowledge Bases (KBs) in which you can upload your own sources for DeepTutor to call via Retrival Augmented Generation (RAG). 
@@ -50,9 +47,11 @@ Since you can upload your own KB articles, one of the best student usage's is to
 For one of my classes, all of the course content was externally linked through canvas. It was a bit of work to get it into DeepTutor but by having Gemini help me with a tamper monkey script I managed to download all the course content. Once that was finished, it's just a upload away to have a fully functioning kb that my AI can teach me info on.
 
 ## TutorBots
-Note: Since the writing of this section, TutorBots have been replaced with //TODO: thing they're replaced with
+
+Note: Since the writing of this section, TutorBots have been replaced with Partners. I haven't had the chance to play around with Partners much but I imagine that all of the same stuff that TutorBots can do, Partners can. I'm sure they also have new fun things they can do aswell.
 
 ### Bots on bots on bots
+
 One of my favorite features of DeepTutor is the TutorBot feature. It's a fairly unique concept.
 
 For each TutorBot (which I'll refer to as TB from now on) you create a soul. This is one of my first souls, based on the default template
@@ -85,8 +84,7 @@ It also can modify its own instructions...
 
 ![This is fine...](ThisIsFine.jpg)
 
-#### Context Stacking
-//TODO: Add about context stacking
+
 
 ### Discord integration
 Each TB has this nifty thing called channels. You are able to setup your bot with loads of communication platforms (discord, telegram, slack, even email!)
@@ -154,6 +152,7 @@ Why did this happen? I have no idea.
 The setup wizard imported a lot of things whenever it ran but I guess it didn't do it all?
 
 ### Migration
+
 Once I got further into it I wanted to have DeepTutor running constantly so that I didn't have to constantly be restarting it on my laptop. I did this by moving it to my homelab.
 
 This was full of a mirad of issues from venvs being broken, node not installing correctly, etc...
@@ -177,9 +176,10 @@ For some reason the frontend couldn't talk to the backend even though they're bo
 It's definately 1.0 software that's not a easy setup for the average student.
 
 ### Restarting
+
 I eventually got tired of having to do weird git stash stuff every time I updated it to get the new features and so I migrated to using their offical docker container. After I got all the docker kinks worked out, it runs fine. I did change their docker run command into a docker compose file (just threw it into chat) and started migrating all of my data to that.
 
 
 ## Conclusion
 
-Long story short, if you're reading this post then you're probably tech savy enough to get it setup and working. If this is the case, go ahead and set it up. Overall, I'd judge it as giving me a 3x boost to my learning speed while helping me to have greater retention and comprehension compared to reading a textbook (although I hate textbook learning and the vast majority of the time never bother to read it.)w
+Long story long, if you're reading this post then you're probably tech savy enough to get it setup and working. If this is the case, go ahead and set it up. Overall, I'd judge it as giving me a 3x boost to my learning speed while helping me to have greater retention and comprehension compared to reading a textbook (although I hate textbook learning and the vast majority of the time never bother to read it).
