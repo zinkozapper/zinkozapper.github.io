@@ -1,5 +1,5 @@
 ---
-title: My Deep Tutor Anecdotal Experience
+title: Deep Tutor: The Future of AI Learning
 description: How I use Deep Tutor as a college student Part I
 author: Zinko
 date: 2026-08-03
