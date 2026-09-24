@@ -1,6 +1,6 @@
 ---
-title: My fancy keyboard
-description: ZSA Moonlander Mark I
+title: My very strange keyboard
+description: ZSA Moonlander
 author: Zinko
 date: 2026-09-22
 categories: [Misc]
