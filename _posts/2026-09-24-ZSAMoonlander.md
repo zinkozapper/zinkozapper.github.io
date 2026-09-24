@@ -2,7 +2,7 @@
 title: My very strange keyboard
 description: ZSA Moonlander
 author: Zinko
-date: 2026-09-22
+date: 2026-09-24
 categories: [Misc]
 media_subpath: '/assets/img/posts/ZSAMoonLander'
 ---
