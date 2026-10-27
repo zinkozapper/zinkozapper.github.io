@@ -1,2 +1,2 @@
 # Zinko
-Welcome to my totally epic site! Don't mind me...
+CTF challenge writeups and other articles that I've written!
