@@ -1,0 +1,10 @@
+copyright:
+  license:
+    template: This post is licensed under :LICENSE_NAME by the author.
+    name: Unlicense
+    link: https://unlicense.org/
+
+  brief: Released into the public domain.
+  verbose: >-
+    Except where otherwise noted, the blog posts on this site are licensed
+    under the Unlicense License by the author. For more information, please refer to https://unlicense.org/
